@@ -3,7 +3,7 @@
   "displayName": "multi-platform-test",
   "publisher": "shouples-dev",
   "description": "The basic intro extension, just using as a test for multi-platform packaging.",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "preview": true,
   "repository": {
     "type": "git",
